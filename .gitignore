@@ -1,0 +1,7 @@
+.project
+/.idea/
+/nbproject/
+phpunit.xml
+composer.phar
+/vendor/
+/nbproject/

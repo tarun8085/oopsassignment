@@ -4,7 +4,7 @@ We use PHP 7.3, so please use this version. PHP unit version is 9
 
 ##  Steps to follow:
 
-### Do a `git pull`
+### Do a `git clone https://github.com/tarun8085/oopsassignment.git`
 
 
 ### Run

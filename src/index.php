@@ -8,7 +8,7 @@ error_reporting(E_ALL);
     <head>
         <meta charset="utf-8">
 
-        <title>Airline Passenger Manifest</title>
+        <title>Airline Passenger Manifest - Demo</title>
         <meta name="description" content="Shop">
         <meta name="author" content="Airline Passenger Manifest">
         <!-- Add some very basic style for page to look a little nicer, you can remove this if not required -->
